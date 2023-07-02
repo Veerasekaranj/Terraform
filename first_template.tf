@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "example" {
+resource "aws_s3_bucket" "veera" {
   bucket = "my-tf-test-buckets"
 
   tags = {
